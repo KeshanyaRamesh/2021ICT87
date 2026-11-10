@@ -1,0 +1,10 @@
+
+	Spearman's rank correlation rho
+
+data:  model_data$PSS_Total and as.numeric(model_data$Sleep_Quality)
+S = 2169105, p-value = 2.295e-11
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.3876522 
+

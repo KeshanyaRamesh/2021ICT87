@@ -1,0 +1,15 @@
+
+# Original dataset - do not upload
+data/raw/
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio settings
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db

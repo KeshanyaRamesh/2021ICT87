@@ -1,0 +1,20 @@
+Call:
+MASS::polr(formula = Sleep_Quality ~ PSS_Total, data = model_data, 
+    Hess = TRUE)
+
+Coefficients:
+           Value Std. Error t value
+PSS_Total 0.1317    0.01954    6.74
+
+Intercepts:
+                       Value   Std. Error
+Very good|Fairly good  -0.7082  0.4078   
+Fairly good|Fairly bad  2.9042  0.4176   
+Fairly bad|Very bad     5.3856  0.5099   
+                       t value
+Very good|Fairly good  -1.7367
+Fairly good|Fairly bad  6.9542
+Fairly bad|Very bad    10.5619
+
+Residual Deviance: 534.3166 
+AIC: 542.3166 
