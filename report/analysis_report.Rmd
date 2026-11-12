@@ -1,6 +1,6 @@
 ---
 title: "Relationship Between Stress Levels and Sleep Quality"
-author: "Your Name - Student Registration Number"
+author: "2021/ICT/87"
 date: "`r Sys.Date()`"
 output:
   html_document:
